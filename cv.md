@@ -1,6 +1,11 @@
 # CV of mine
 Greetings, my name is *Matvey Maksimchik*.
 ### There are some examples of my work:
+**https://github.com/MateoLaMuerte**
+
+**https://vk.com/thec0nquerror**
+
+I started learning JavaScript because of popularity of programming. I want to explore different things and programming one of them. As far as I'll be interested in it I will improve my skills.
 
 `function Fibonacci(n) {
 
